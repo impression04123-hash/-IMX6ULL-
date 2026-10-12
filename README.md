@@ -1,0 +1,9 @@
+- samrthome：qt源码
+- smarthome_app：测试驱动的应用层源码
+- samrthome_driver：驱动源码
+- smarthome_qt_video：加入了ov2640做的相机和视频监控的qt源码
+- smarthome_qt_rtsp：使用ffmpeg播放用海思方案实现的rtsp流的qt源码
+- hi3516：hi3516dv编译好的固件，wifi驱动源码，uboot刷固件脚本
+- imx6ull-alientek-emmc.dts：设备树文件
+- insmod.sh：安装驱动的脚本（开发时可单独进行insmod）
+- 其他教程：linux-c，qt，驱动，uboot移植，内核移植，根文件系统制作，tslib和qtlib移植请参考正点原子或其他教程。

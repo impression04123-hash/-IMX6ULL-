@@ -1,0 +1,13 @@
+# Local editor settings
+.vscode/
+*.pro.user*
+
+# Build output
+build*/
+*.o
+*.ko
+*.mod.c
+*.cmd
+.tmp_versions/
+Module.symvers
+modules.order
